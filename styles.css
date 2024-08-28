@@ -1,2 +1,12 @@
-
 /* Your CSS Code here. */
+body {
+    box-sizing: border-box;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+td {
+    text-align: center;
+}
